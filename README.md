@@ -31,41 +31,41 @@
 29. draw a flow chart to print multiplication table of 3.
 30. draw a flow chart to print first n multiplication table from 2.
 31. draw a flow chart to print given pattern
-*****
-*****
-*****
-*****
-*****
+              *****
+              *****
+              *****
+              *****
+              *****
 31.draw a flow chart to print given partten
-*
-**
-***
-****
-*****
+                *
+                **
+                ***
+                ****
+                *****
 32.draw a flow chart to print given partten
-*****
-****
-***
-**
-*
+                *****
+                ****
+                ***
+                **
+                *
 33. draw a flow chart to print given pattern
-*****
- ****
-  ***
-   **
-    *
+                *****
+                 ****
+                  ***
+                   **
+                    *
 34.draw a flow chart to print given pattern
-AAAAABBBBB
- AAAABBBB
-  AAABBB
-   AABB
-    AB
+                AAAAABBBBB
+                 AAAABBBB
+                  AAABBB
+                   AABB
+                    AB
 35.draw a flow chart to print given pattern
-    AB
-   AABB
-  AAABBB
- AAAABBBB
-AAAAABBBBB
+                    AB
+                   AABB
+                  AAABBB
+                 AAAABBBB
+                AAAAABBBBB
 36.draw a flow chart to print factorial of given number
 37.draw a flow chart to print factors of given numbers
 38.draw a flow chart to print whether the given number is prime or not.39.draw a flow chart to print reverse of a given number.
@@ -84,68 +84,68 @@ the largest number and smallest number among four given numbers .
 51. Draw a flow chart to s wap
 two numbers without using temp variable
 52.Draw a flow chart to print given pattern
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
+                        1
+                        1 2
+                        1 2 3
+                        1 2 3 4
+                        1 2 3 4 5
 53.Draw a flow chart to find Probability
 of finding head when 3 coins tossed simultaneously.
 54. Draw a flow chart to find Probability of finding Ace in pack of Cards.
 55.In a box we have 3 red, 5 black, 6 blue balls, if we draw 3 balls simultaneously . Draw a flow chart
 to find the probability of getting 1 red, 1 blue, 1 black ?
 56.Draw a flow chart to print given pattern
-1
-2 3 4
-5 6 7 8 9
-10 11 12
-13
+                               1
+                             2 3 4
+                            5 6 7 8 9
+                            10 11 12
+                               13
 57. Draw
 a flow chart to print given pattern
-* * * * *
-* * * *
-* * *
-* *
-*
+                                * * * * *
+                                * * * *
+                                * * *
+                                * *
+                                *
 58.Draw a flow chart to print given pattern
-* * * * *
-  * * * *
-    * * *
-      * *
-        *
+                            * * * * *
+                              * * * *
+                                * * *
+                                  * *
+                                    *
 59.Draw a flow chart to print given pattern
-      *
-    * * *
-  * * * * *
-* * * * * * *
+                                  *
+                                * * *
+                              * * * * *
+                            * * * * * * *
 60.Draw a flow chart to print given pattern
-* * * * * * *
-  * * * * *
-    * * *
-      *
+                            * * * * * * *
+                              * * * * *
+                                * * *
+                                  *
 61.Draw a flow chart to find roots of a quadratic equation?
 62.Take two numbers from the user and draw a flow chart to find the sum of numbers which
 are not divisible by 5 between the range.
 63. Draw a flow chart to print given pattern
 Hollow square
-# # # # #
-#       #
-#       #
-#       #
-# # # # #
+                                # # # # #
+                                #       #
+                                #       #
+                                #       #
+                                # # # # #
 64.Draw a flow chart to find Armstrong numbers between two intervals (user input)?
 65.Draw a flow chart to convert binary number to octal.
 66. Draw a flow chart to convert binary number to hexa decimal.
 67.Draw a flow chart to print given pattern .
 Pascals triangle
-     1
-    1 1
-  1 2 2 1
- 1 3 4 3 1
-1 4 7 7 4 1
+                                     1
+                                    1 1
+                                  1 2 2 1
+                                 1 3 4 3 1
+                                1 4 7 7 4 1
 68.Draw a flow chart to take a string from the user and print all the combinations.
 69.Draw a flow chart to print given pattern
-      1
-    2 3 2
-  3 4 5 4 3
-4 5 6 7 6 5 4
+                                      1
+                                    2 3 2
+                                  3 4 5 4 3
+                                4 5 6 7 6 5 4
