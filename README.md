@@ -8,8 +8,7 @@
 8. draw a flow chart to print the value of resistance ,when voltage and current values are provided.
 9. draw a flow chart to print the power when the current and resistance values are provided.
 10. draw a flow chart to take the values ofi1,i2,i3,i4,i5,i6 current values
-
-following from the point and calcute sum of current.
+    following from the point and calcute sum of current.
 12. Draw a flow chart to read the number of digits in given number.
 13. draw a flow chart to read two numbers from user and print bigger value.
 14. draw a flow chart to print wheather the given number is positive or negative.
